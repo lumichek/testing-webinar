@@ -3,7 +3,7 @@ import TestRenderer from 'react-test-renderer';
 import Card from '../components/Card';
 import store from "../store/store"
 
-describe('Check Card component', () => {
+describe('check card component', () => {
   let mockCard = {
     "likes": [],
     "_id": "1",
