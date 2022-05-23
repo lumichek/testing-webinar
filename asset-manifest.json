@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/testing-webinar/static/css/main.cabe5db4.css",
-    "main.js": "/testing-webinar/static/js/main.5b359b31.js",
-    "static/media/Inter-Black.woff2": "/testing-webinar/static/media/Inter-Black.8d07d4e4ea9833df9373.woff2",
-    "static/media/Inter-Regular.woff2": "/testing-webinar/static/media/Inter-Regular.dcba3388310e6ae77440.woff2",
-    "static/media/logo.svg": "/testing-webinar/static/media/logo.0863e5bc26221680f1e2194da70c984e.svg",
-    "static/media/like-inactive.svg": "/testing-webinar/static/media/like-inactive.df0c965524717a3fd8e9.svg",
-    "static/media/error-icon.svg": "/testing-webinar/static/media/error-icon.32971857b5c1d307a9e6709484b7083c.svg",
-    "static/media/success-icon.svg": "/testing-webinar/static/media/success-icon.b2474792dbe3790344fe453a8cbba504.svg",
-    "index.html": "/testing-webinar/index.html",
-    "static/media/delete-icon.svg": "/testing-webinar/static/media/delete-icon.2af49b82d305a6ea3442.svg",
-    "static/media/like-active.svg": "/testing-webinar/static/media/like-active.a7ffe37dcb927ba0c46c.svg",
-    "static/media/burger.svg": "/testing-webinar/static/media/burger.ccf7020248ca1ffd1496.svg",
-    "static/media/close.svg": "/testing-webinar/static/media/close.8a65f75d3d836c291cc9.svg",
-    "static/media/edit-icon.svg": "/testing-webinar/static/media/edit-icon.6c7bf05444b9793fdf6e.svg",
-    "static/media/add-icon.svg": "/testing-webinar/static/media/add-icon.bed8c136e13907f5eefb.svg",
-    "main.cabe5db4.css.map": "/testing-webinar/static/css/main.cabe5db4.css.map",
-    "main.5b359b31.js.map": "/testing-webinar/static/js/main.5b359b31.js.map"
+    "main.css": "./static/css/main.7e9f0202.css",
+    "main.js": "./static/js/main.118abdb8.js",
+    "static/media/Inter-Black.woff2": "./static/media/Inter-Black.8d07d4e4ea9833df9373.woff2",
+    "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.dcba3388310e6ae77440.woff2",
+    "static/media/logo.svg": "./static/media/logo.0863e5bc26221680f1e2194da70c984e.svg",
+    "static/media/like-inactive.svg": "./static/media/like-inactive.df0c965524717a3fd8e9.svg",
+    "static/media/error-icon.svg": "./static/media/error-icon.32971857b5c1d307a9e6709484b7083c.svg",
+    "static/media/success-icon.svg": "./static/media/success-icon.b2474792dbe3790344fe453a8cbba504.svg",
+    "index.html": "./index.html",
+    "static/media/delete-icon.svg": "./static/media/delete-icon.2af49b82d305a6ea3442.svg",
+    "static/media/like-active.svg": "./static/media/like-active.a7ffe37dcb927ba0c46c.svg",
+    "static/media/burger.svg": "./static/media/burger.ccf7020248ca1ffd1496.svg",
+    "static/media/close.svg": "./static/media/close.8a65f75d3d836c291cc9.svg",
+    "static/media/edit-icon.svg": "./static/media/edit-icon.6c7bf05444b9793fdf6e.svg",
+    "static/media/add-icon.svg": "./static/media/add-icon.bed8c136e13907f5eefb.svg",
+    "main.7e9f0202.css.map": "./static/css/main.7e9f0202.css.map",
+    "main.118abdb8.js.map": "./static/js/main.118abdb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cabe5db4.css",
-    "static/js/main.5b359b31.js"
+    "static/css/main.7e9f0202.css",
+    "static/js/main.118abdb8.js"
   ]
 }
